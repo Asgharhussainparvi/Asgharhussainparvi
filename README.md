@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Asgharhussainparvi
+- 👀 I’m interested in Software Engineering by using AI 
+- 🌱 I’m currently learning AI and Machine Learning
+- 📫 How to reach me : [Linkedin ](https://www.linkedin.com/in/asgharhussainparvi/)
+- 😄 Pronouns: HE and Him
