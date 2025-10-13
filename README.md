@@ -1,38 +1,20 @@
-# Hi there, I'm Asghar Hussain Parvi 👋
+# Hi — I'm Asghar 👋
+AI intern & Software Engineering student building production-oriented ML systems: computer vision, healthcare ML, and multilingual models.
 
-Welcome to my GitHub profile! I'm passionate about software development and constantly learning new technologies to improve my skills.
+🔭 Currently: Building a Romanized Balti LLM and improving healthcare diagnosis pipelines.  
+🌱 Learning: Generative AI & NLP at scale, model interpretability.  
+💡 Focus: deployable ML (ONNX, Streamlit, FastAPI), dataset engineering (COCO), and robust system design.
 
-## 🛠 Technologies & Tools
+## Featured projects
+- **SiraatAI** — portfolio & deployed ML demos (Streamlit + ONNX).  
+- **Fruit Ripeness Classifier** — ResNet → ONNX, YOLO segmentation, Streamlit demo.  
+- **Cow Disease Detection** — COCO dataset, detection/segmentation pipeline.  
+- **Facial Expression Detection Bot** — PyTorch model + OpenCV webcam UI.
 
-- Languages: JavaScript, Python, Java, C++
-- Frontend: React, Angular, HTML5, CSS3
-- Backend: Node.js, Express.js, Django, Spring Boot
-- Databases: MongoDB, MySQL, PostgreSQL
-- DevOps: Docker, Kubernetes, Jenkins
-- Cloud: AWS, Azure, Google Cloud Platform
-- Tools: Git, GitHub, VS Code, IntelliJ IDEA
+## Languages & Tools
+Python • PyTorch • TensorFlow • ONNX • OpenCV • React • Node.js • Flask/FastAPI • SQL • Docker
 
-## 🌱 Currently Learning
-
-- Machine Learning with TensorFlow and PyTorch
-- Advanced Kubernetes techniques
-- Blockchain development
-
-## 📈 GitHub Stats
-
-![Asgharhussainparvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asgharhussainparvi&show_icons=true&theme=radical)
-
-## 📫 How to reach me
-
-- Email: asgharhussainparvi@example.com
-- LinkedIn: [Asghar Hussain Parvi](https://www.linkedin.com/in/asgharhussainparvi)
-- Twitter: [@AsgharHParvi](https://twitter.com/AsgharHParvi)
-
-## ✨ Fun Facts
-
-- I love solving puzzles and brain teasers.
-- In my free time, I enjoy hiking and exploring nature.
-- I'm a big fan of sci-fi movies and books.
-
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
-``` ▋
+## Contact
+LinkedIn: [paste your LinkedIn URL]  
+Portfolio: [paste your portfolio URL]  
+Email: [your business email]
