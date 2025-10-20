@@ -79,7 +79,6 @@ Currently working on projects that combine **Deep Learning, NLP, and Cognitive M
 ### 🛠️ GitHub Automation & Enhancements
 
 You can integrate the following actions:
-- 🧮 **Auto-updating README Stats:** [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - 🔄 **Daily Dev Metrics:** [lowlighter/metrics](https://github.com/lowlighter/metrics)
 - 🌐 **Profile Views Counter:**  
   ![Profile Views](https://komarev.com/ghpvc/?username=Asgharhussainparvi&label=Profile%20Views&color=0e75b6&style=flat)
@@ -96,7 +95,7 @@ You can integrate the following actions:
 
 <p align="center">
   <a href="https://github.com/Asgharhussainparvi" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://linkedin.com/in/asgharhussainparvi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://linkedin.com/in/asgharhussainparviii" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://asgharhussainparvi.github.io" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
 </p>
 
