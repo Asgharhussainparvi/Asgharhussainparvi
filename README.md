@@ -2,7 +2,7 @@
 <h3 align="center">AI Researcher | Software Engineer | Visionary in Brain-Inspired Intelligence</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asgharhussainparvi&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Asgharhussainparvi&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 ---
