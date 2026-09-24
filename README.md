@@ -1,151 +1,124 @@
 <div align="center">
-👋 Hi, I'm Asghar Hussain
-AI Engineer · AI Researcher · Automation Engineer · Software Engineer
-<br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Exploring+Agentic+AI;Engineering+Autonomous+Workflows;Researching+the+Future+of+AI" /> <br> <a href="https://github.com/Asgharhussainparvi"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://linkedin.com/in/asgharhussainparviii"> <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/> </a> <a href="https://asgharhussainparvi.xyz/"> <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00F7FF"/> </a> <a href="https://devpost.com/asgharhussainparvi"> <img src="https://img.shields.io/badge/Devpost-0D1117?style=for-the-badge&logo=devpost&logoColor=white"/> </a>
+
+# Asghar Hussain
+
+### AI & Automation Engineer
+
+**Building intelligent systems, AI agents, APIs & real-world automation.**
+
+<p>
+  <a href="https://asgharhussainparvi.xyz/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/asgharhussainparviii/">LinkedIn</a> ·
+  <a href="mailto:asgharhussainparvi@gmail.com">Email</a>
+</p>
+
+</div>
+
+---
+
+## About
+
+I'm an **AI & Automation Engineer** focused on turning ideas and repetitive processes into practical, deployable systems.
+
+My work sits at the intersection of:
+
+**Artificial Intelligence · Agentic AI · Backend Engineering · Automation**
+
+Currently exploring how autonomous AI systems can reason, use tools, interact with APIs, and execute real-world workflows.
+
+---
+
+## What I Build
+
+```text
+AI Systems          →  LLMs · RAG · Computer Vision · Generative AI
+Agentic Systems     →  AI Agents · Multi-Agent Systems · Tool Use
+Backend             →  Python · FastAPI · REST APIs · PostgreSQL
+Automation          →  Web Automation · Data Extraction · Business Workflows
+```
+
+---
+
+## Selected Work
+
+### AI & Intelligent Systems
+
+* [Mochi Studio](https://github.com/Asgharhussainparvi/mochi-app)
+* [Research Assistant Chatbot](https://github.com/Asgharhussainparvi/Researcher_Assistant_ChatBot)
+* [Computer Vision & AI Disease Detection](https://github.com/Asgharhussainparvi/Fruit_CLassifier_DL_Project_1)
+* [AI Disease Prediction & Recommendation System](https://github.com/Asgharhussainparvi/Medicine-Recommendation-System-with-Machine-Learning)
+
+### AI Research & Hackathon Projects
+
+* [ARGUS — Autonomous DevSecOps Intelligence](https://devpost.com/software/argus-pzd7ay?ref_content=user-portfolio&ref_feature=in_progress)
+* [VulnGraph AI](https://devpost.com/software/vulngraph-ai)
+* [Concept Detective AI](https://devpost.com/software/concept-detective-ai)
+
+---
+
+## Automation
+
+Building production-oriented automation systems involving:
+
+**Web Automation · Scraping · API Integrations · CRM Workflows · Data Pipelines · Business Process Automation**
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,opencv,postgresql,docker,git,github,linux,selenium" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Asgharhussainparvi&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" /> </div>
-🧠 About
-
-I build intelligent systems that connect AI with real-world software.
-
-I'm an AI Engineer, Automation Engineer, AI Researcher, and Software Engineering student at The Islamia University of Bahawalpur.
-
-My work focuses on turning artificial intelligence into deployable systems, autonomous workflows, and practical software.
-
-I'm particularly interested in the transition from:
-
-AI Models
-    ↓
-Reasoning
-    ↓
-Tool Use
-    ↓
-Planning
-    ↓
-Autonomous Action
-
-⚡ What I Work On
-<div align="center">
-🤖 AI	🧩 Agents	⚙️ Automation
-Machine Learning	Autonomous Agents	Workflow Automation
-Generative AI	Multi-Agent Systems	Web Automation
-Computer Vision	LLM Applications	Data Extraction
-NLP	RAG Systems	Intelligent APIs
-</div>
-🔬 Research Direction
-<div align="center">
-From Artificial Intelligence → Intelligent Systems
-<br>
-
-Brain-Inspired AI · Agentic AI · Multi-Agent Systems
-
-LLMs · RAG · Low-Resource NLP
-
-Computer Vision · Generative AI
-
-Reliable AI · Explainable AI · AI Automation
+<img src="https://skillicons.dev/icons?i=typescript,react,nextjs,firebase,tailwind" />
 
 </div>
-🛠️ Technology Universe
+
+---
+
+## Currently Exploring
+
+```text
+Autonomous AI Agents
+Multi-Agent Architectures
+LLM Systems & RAG
+AI-assisted Software Engineering
+Reliable & Explainable AI
+AI-driven Automation
+```
+
+---
+
+## Experience
+
+**AI Engineer — EnlivenAI Solutions LLC**
+AI systems · Intelligent APIs · LLM integrations · Automation
+
+**Automation Engineer — Algotix AI**
+Production automation · Web automation · Data extraction
+
+**AI Intern — DeepEmbed Lab, IUB**
+Machine Learning · Computer Vision · Language Models · Generative AI
+
+---
+
+## Education
+
+**BS Software Engineering**
+The Islamia University of Bahawalpur · 2023–Present
+
+---
+
+## Connect
+
 <div align="center">
-Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql" />
-AI / Machine Learning
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
+<a href="https://asgharhussainparvi.xyz/">🌐 Portfolio</a> · <a href="https://www.linkedin.com/in/asgharhussainparviii/">💼 LinkedIn</a> · <a href="https://github.com/Asgharhussainparvi">🐙 GitHub</a>
 
 <br><br>
 
-Transformers · Hugging Face · Scikit-learn · OpenCV
-YOLO · FAISS · NumPy · Pandas · LangChain
-
-Backend & Engineering
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,docker,git,github" />
-Automation
-
-Selenium · Requests · Google Apps Script · Make.com
-Monday.com · Metricool · Botpress
-
-</div>
-🌌 Current Mission
-<div align="center">
-        ┌──────────────────────────────┐
-        │       INTELLIGENT AI         │
-        └──────────────┬───────────────┘
-                       │
-             ┌─────────▼─────────┐
-             │     REASONING     │
-             └─────────┬─────────┘
-                       │
-             ┌─────────▼─────────┐
-             │    TOOL  USE      │
-             └─────────┬─────────┘
-                       │
-             ┌─────────▼─────────┐
-             │     PLANNING      │
-             └─────────┬─────────┘
-                       │
-             ┌─────────▼─────────┐
-             │ AUTONOMOUS ACTION │
-             └───────────────────┘
-
-Building AI systems that can reason, adapt, use tools, and act.
-</div>
-🧪 Research & Engineering Interests
-<div align="center">
-
-🧠 Brain-Inspired Intelligence
-🤖 Autonomous AI Agents
-🧩 Multi-Agent Architectures
-💬 Large Language Models
-🔎 Retrieval-Augmented Generation
-🌍 Multilingual & Low-Resource AI
-👁️ Computer Vision
-🎥 Generative AI
-⚙️ Intelligent Automation
-🛡️ Reliable & Explainable AI
-
-</div>
-🎓 Education
-<div align="center">
-🎓 Bachelor of Science in Software Engineering
-
-The Islamia University of Bahawalpur
-
-2023 — Present
-
-</div>
-💼 Professional Journey
-<div align="center">
-Python
-  │
-  ▼
-Backend Development
-  │
-  ▼
-Artificial Intelligence
-  │
-  ▼
-AI Engineering
-  │
-  ▼
-Automation Engineering
-  │
-  ▼
-Agentic & Autonomous AI
-
-</div>
-📊 GitHub
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Asgharhussainparvi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asgharhussainparvi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" /> <br> <img src="https://github-profile-trophy.vercel.app/?username=Asgharhussainparvi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" /> </div>
-🌍 Connect
-<div align="center"> <a href="https://github.com/Asgharhussainparvi"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/> </a> <a href="https://linkedin.com/in/asgharhussainparviii"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="https://asgharhussainparvi.xyz/"> <img src="https://img.shields.io/badge/Website-Explore-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black"/> </a> <a href="https://devpost.com/asgharhussainparvi"> <img src="https://img.shields.io/badge/Devpost-Explore-003E54?style=for-the-badge&logo=devpost"/> </a> </div>
-<div align="center">
-Curiosity → Mathematics → Intelligence → Automation
-<br> <img src="https://komarev.com/ghpvc/?username=Asgharhussainparvi&label=PROFILE+VIEWS&color=00F7FF&style=flat-square" />
-
-<br><br>
-
-“Building intelligent systems that learn, reason, adapt, and act.”
+<sub>Building intelligent systems, one experiment at a time.</sub>
 
 </div>
