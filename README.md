@@ -1,106 +1,151 @@
-<h1 align="center">Hi, I'm Asghar Hussain Parvi 👋</h1>
-<h3 align="center">AI Researcher | Software Engineer | Visionary in Brain-Inspired Intelligence</h3>
+<div align="center">
+👋 Hi, I'm Asghar Hussain
+AI Engineer · AI Researcher · Automation Engineer · Software Engineer
+<br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Exploring+Agentic+AI;Engineering+Autonomous+Workflows;Researching+the+Future+of+AI" /> <br> <a href="https://github.com/Asgharhussainparvi"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://linkedin.com/in/asgharhussainparviii"> <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/> </a> <a href="https://asgharhussainparvi.xyz/"> <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00F7FF"/> </a> <a href="https://devpost.com/asgharhussainparvi"> <img src="https://img.shields.io/badge/Devpost-0D1117?style=for-the-badge&logo=devpost&logoColor=white"/> </a>
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Asgharhussainparvi&theme=dark" alt="GitHub Streak" /></a>
-</p>
+<br><br>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Asgharhussainparvi&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" /> </div>
+🧠 About
 
-### 🌟 About Me
+I build intelligent systems that connect AI with real-world software.
 
-I'm an **AI Researcher and Software Engineering Student (5th Semester at IUB)** passionate about exploring the intersection of **mathematics, cognition, and artificial intelligence**.  
-Currently working on projects that combine **Deep Learning, NLP, and Cognitive Modeling** to create systems that learn, reason, and adapt like the human brain.
+I'm an AI Engineer, Automation Engineer, AI Researcher, and Software Engineering student at The Islamia University of Bahawalpur.
 
-> *“Exploring intelligence through code and mathematics.”*
+My work focuses on turning artificial intelligence into deployable systems, autonomous workflows, and practical software.
 
----
+I'm particularly interested in the transition from:
 
-### 🔬 Research Interests
+AI Models
+    ↓
+Reasoning
+    ↓
+Tool Use
+    ↓
+Planning
+    ↓
+Autonomous Action
 
-- 🧩 **Artificial Intelligence & Cognitive Systems**  
-- 🧠 **Brain-Inspired AI** — modeling human-like perception, reasoning, and learning  
-- 📚 **Natural Language Processing (NLP)** — multilingual & low-resource models  
-- 👁️ **Computer Vision** — detection, segmentation, and generative vision  
-- 🧮 **Mathematical Modeling for AI Optimization**
+⚡ What I Work On
+<div align="center">
+🤖 AI	🧩 Agents	⚙️ Automation
+Machine Learning	Autonomous Agents	Workflow Automation
+Generative AI	Multi-Agent Systems	Web Automation
+Computer Vision	LLM Applications	Data Extraction
+NLP	RAG Systems	Intelligent APIs
+</div>
+🔬 Research Direction
+<div align="center">
+From Artificial Intelligence → Intelligent Systems
+<br>
 
----
+Brain-Inspired AI · Agentic AI · Multi-Agent Systems
 
-### 🧑‍💻 Skills & Technologies
+LLMs · RAG · Low-Resource NLP
 
-**Languages:** Python, JavaScript, C++, SQL, HTML, CSS  
-**Frameworks:** PyTorch, TensorFlow, Scikit-learn, React.js, Node.js, Express.js, Flask, FastAPI  
-**Databases:** MySQL, Oracle, SQLite  
-**Tools & Platforms:** Git, GitHub, VS Code, Colab, Jupyter, Streamlit, Docker  
-**Research & Data:** NumPy, Pandas, OpenCV, Hugging Face, LangChain
+Computer Vision · Generative AI
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,nodejs,flask,fastapi,git,github,mysql,vscode,html,css,js" />
-</p>
+Reliable AI · Explainable AI · AI Automation
 
----
+</div>
+🛠️ Technology Universe
+<div align="center">
+Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql" />
+AI / Machine Learning
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
-### 🧩 Featured Projects
+<br><br>
 
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🚀 **SiraatAI Portfolio** | Animated portfolio site showcasing AI startup and projects | React.js, Tailwind, AOS |
-| 🧬 **Disease Prediction & Health Recommendation System** | Full-stack ML web app integrating React, Node, SQL, and Python (Flask ML API) | ML, React, Node, Flask |
-| 🍎 **Fruit Ripeness Detection** | Deep learning-based detection using ResNet + YOLO + Streamlit | PyTorch, ONNX, OpenCV |
-| 🐄 **Cow Disease Detection** | YOLOv8-based model trained on COCO-style dataset | Ultralytics YOLO, Python |
-| 💬 **Multilingual AI Assistant** | NLP + Translation model (Urdu, English, Roman Balti) with disease diagnosis | Hugging Face, Transformers |
+Transformers · Hugging Face · Scikit-learn · OpenCV
+YOLO · FAISS · NumPy · Pandas · LangChain
 
-👉 *Explore all repositories at [github.com/Asgharhussainparvi?tab=repositories](https://github.com/Asgharhussainparvi?tab=repositories)*
+Backend & Engineering
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,docker,git,github" />
+Automation
 
----
+Selenium · Requests · Google Apps Script · Make.com
+Monday.com · Metricool · Botpress
 
-### 📈 GitHub Analytics
+</div>
+🌌 Current Mission
+<div align="center">
+        ┌──────────────────────────────┐
+        │       INTELLIGENT AI         │
+        └──────────────┬───────────────┘
+                       │
+             ┌─────────▼─────────┐
+             │     REASONING     │
+             └─────────┬─────────┘
+                       │
+             ┌─────────▼─────────┐
+             │    TOOL  USE      │
+             └─────────┬─────────┘
+                       │
+             ┌─────────▼─────────┐
+             │     PLANNING      │
+             └─────────┬─────────┘
+                       │
+             ┌─────────▼─────────┐
+             │ AUTONOMOUS ACTION │
+             └───────────────────┘
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asgharhussainparvi&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asgharhussainparvi&layout=compact&theme=tokyonight" />
-</p>
+Building AI systems that can reason, adapt, use tools, and act.
+</div>
+🧪 Research & Engineering Interests
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Asgharhussainparvi&theme=tokyonight&margin-w=5&margin-h=5" />
-</p>
+🧠 Brain-Inspired Intelligence
+🤖 Autonomous AI Agents
+🧩 Multi-Agent Architectures
+💬 Large Language Models
+🔎 Retrieval-Augmented Generation
+🌍 Multilingual & Low-Resource AI
+👁️ Computer Vision
+🎥 Generative AI
+⚙️ Intelligent Automation
+🛡️ Reliable & Explainable AI
 
----
+</div>
+🎓 Education
+<div align="center">
+🎓 Bachelor of Science in Software Engineering
 
-### 🧭 Current Focus
+The Islamia University of Bahawalpur
 
-- 🧠 Building **brain-inspired deep learning models**
-- 💬 Researching **multilingual NLP for low-resource languages**
-- 🧩 Developing **AI-driven health and agriculture systems**
-- 🧪 Experimenting with **Generative AI and mathematical reasoning models**
+2023 — Present
 
----
+</div>
+💼 Professional Journey
+<div align="center">
+Python
+  │
+  ▼
+Backend Development
+  │
+  ▼
+Artificial Intelligence
+  │
+  ▼
+AI Engineering
+  │
+  ▼
+Automation Engineering
+  │
+  ▼
+Agentic & Autonomous AI
 
-### 🛠️ GitHub Automation & Enhancements
+</div>
+📊 GitHub
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Asgharhussainparvi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asgharhussainparvi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" /> <br> <img src="https://github-profile-trophy.vercel.app/?username=Asgharhussainparvi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" /> </div>
+🌍 Connect
+<div align="center"> <a href="https://github.com/Asgharhussainparvi"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/> </a> <a href="https://linkedin.com/in/asgharhussainparviii"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="https://asgharhussainparvi.xyz/"> <img src="https://img.shields.io/badge/Website-Explore-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black"/> </a> <a href="https://devpost.com/asgharhussainparvi"> <img src="https://img.shields.io/badge/Devpost-Explore-003E54?style=for-the-badge&logo=devpost"/> </a> </div>
+<div align="center">
+Curiosity → Mathematics → Intelligence → Automation
+<br> <img src="https://komarev.com/ghpvc/?username=Asgharhussainparvi&label=PROFILE+VIEWS&color=00F7FF&style=flat-square" />
 
-You can integrate the following actions:
-- 🔄 **Daily Dev Metrics:** [lowlighter/metrics](https://github.com/lowlighter/metrics)
-- 🌐 **Profile Views Counter:**  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Asgharhussainparvi&label=Profile%20Views&color=0e75b6&style=flat)
+<br><br>
 
----
+“Building intelligent systems that learn, reason, adapt, and act.”
 
-### 💡 Tagline
-
-> “Coding cognition — Building intelligence that learns, adapts, and evolves.”
-
----
-
-### 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Asgharhussainparvi" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://linkedin.com/in/asgharhussainparviii" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://asgharhussainparvi.github.io" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
-</p>
-
----
-
-<p align="center">
-  <i>“Driven by curiosity, powered by mathematics, and inspired by the brain.”</i>
-</p>
+</div>
