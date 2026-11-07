@@ -1,7 +1,11 @@
 <div align="center">
 
 <a href="https://github.com/Asgharhussainparvi">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A111827%2C50%3A312E81%2C100%3A0F766E&height=230&section=header&text=ASGHAR%20HUSSAIN&fontSize=48&fontColor=F8FAFC&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20Automation%20Engineer%20%7C%20Building%20useful%20intelligence&descAlignY=60&descSize=16" alt="Asghar Hussain — AI and Automation Engineer" width="100%" />
+   <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312E81,100:0F766E&height=230&section=header&text=ASGHAR%20HUSSAIN&fontSize=48&fontColor=F8FAFC&fontAlignY=38&animation=fadeIn&desc=AI%20and%20Automation%20Engineer&descAlignY=60&descSize=16"
+    width="100%"
+    alt="Asghar Hussain - AI and Automation Engineer"
+  />
 </a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=850&color=5EEAD4&center=true&vCenter=true&width=720&lines=Designing+AI+systems+that+do+more+than+demo.;Agents+%C2%B7+RAG+%C2%B7+APIs+%C2%B7+automation.;From+interesting+idea+to+working+software." alt="Typing introduction" /></a>
