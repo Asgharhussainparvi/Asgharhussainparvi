@@ -162,11 +162,20 @@ I’m working toward AI products that are useful, measurable, and clear about wh
 
 <div align="center">
 
-<a href="https://asgharhussainparvi.xyz/"><img src="https://img.shields.io/badge/Portfolio-Explore%20my%20work-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/asgharhussainparviii/"><img src="https://img.shields.io/badge/LinkedIn-Let%27s%20connect-312E81?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:asgharhussainparvi@gmail.com"><img src="https://img.shields.io/badge/Email-Start%20a%20conversation-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Asgharhussainparvi"><img src="https://img.shields.io/badge/GitHub-Follow%20along-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
+<p align="center">
+  <a href="https://asgharhussainparvi.xyz/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-0F766E.svg?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/asgharhussainparviii/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-312E81.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:asgharhussainparvi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-334155.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Asgharhussainparvi">
+    <img src="https://img.shields.io/badge/GitHub-Follow-161B22.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 <br /><br />
 
 *Building intelligent systems, one thoughtful experiment at a time.*
