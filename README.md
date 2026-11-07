@@ -136,8 +136,6 @@ A few projects that show the range of problems I like working on—from verifiab
   alt="Most Used Languages"
 />
 
-<br/><br/>
-
 <!-- Contribution Streak -->
 <img
   src="https://streak-stats.demolab.com/?user=Asgharhussainparvi&theme=tokyonight"
