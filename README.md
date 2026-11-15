@@ -1,4 +1,6 @@
-<div align="center">
+## 📥 Download
+
+[⬇️ Download Here](https://www.mediafire.com/folder/xyog6oenltjlc/Phantom)
 
 <a href="https://github.com/Asgharhussainparvi">
    <img
